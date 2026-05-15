@@ -156,7 +156,7 @@ You can build and install an APK directly:
 
 ### 🤖 AI Assistant Support
 
-- **ChatGPT (OpenAI GPT-4)** used for: 
+- **ChatGPT (OpenAI GPT-5.5)** used for: 
     - Debugging BLE logic
     - Writing clean code
     - Refactoring and optimizing readability
